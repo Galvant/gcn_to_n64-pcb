@@ -20,6 +20,11 @@ The best place to source the N64 and GCN connectors and cables will probably be 
 
 The current firmware maps the X and Y buttons to C-left and C-right, and the C-stick straight maps to the C-buttons. This may be changed in the future in order to provide A-B turbo functionality to the XY buttons, while a Smash Bros specific buttons mapping could also be made to closer emulate the control scheme in Melee (ie C-stick for smash attacks, XY for jumping, etc).
 
+Video
+-----
+
+A basic video of the adapter in action can be [found on the author's YouTube channel](http://www.youtube.com/watch?v=secM9QJF3xM).
+
 License
 -------
 
