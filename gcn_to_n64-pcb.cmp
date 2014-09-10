@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by CvPcb (2013-11-28 BZR 4510)-product date = Thu 29 May 2014 06:54:05 PM EDT
+
+BeginCmp
+TimeStamp = /5387AF26;
+Reference = C1;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5387AF3A;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5387B6BB;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53878BD7;
+Reference = IC1;
+ValeurCmp = ATMEGA328P-A;
+IdModule  = SMD_Packages:TQFP32;
+EndCmp
+
+BeginCmp
+TimeStamp = /53878E7C;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = Connect:SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5387B061;
+Reference = P1;
+ValeurCmp = CONN_3X2;
+IdModule  = Connect:SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5387B585;
+Reference = P2;
+ValeurCmp = CONN_3X2;
+IdModule  = Connect:SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5387B915;
+Reference = P3;
+ValeurCmp = CONN_6;
+IdModule  = Connect:SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5387AE57;
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5387B6A7;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = SMD_Packages:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53878DC3;
+Reference = X1;
+ValeurCmp = 16MHz;
+IdModule  = SMD_Packages:EMI_FILTER;
+EndCmp
+
+EndListe
