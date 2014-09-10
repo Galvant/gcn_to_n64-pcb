@@ -20,6 +20,11 @@ The best place to source the N64 and GCN connectors and cables will probably be 
 
 The current firmware maps the X and Y buttons to C-left and C-right, and the C-stick straight maps to the C-buttons. This may be changed in the future in order to provide A-B turbo functionality to the XY buttons, while a Smash Bros specific buttons mapping could also be made to closer emulate the control scheme in Melee (ie C-stick for smash attacks, XY for jumping, etc).
 
+Controller Rumble
+-----------------
+
+Technically the firmware does support driving the Gamecube controller's rumble motor, but this is not really supported by this PCB. The reason is because, according to my research, the N64 is not able to provide enough power through its ports to drive it. The N64 outputs 3.3V while the Gamecube outputs 3.3V and 5V, with the 5V to drive the rumble motor. While I do understand that I can step-up the 3.3V from the N64 to the 5V for the rumble motor, I don't know if the N64 can handle outputting the required power. This is not something I particularly feel like testing as I don't want to accidently burn out my N64 controller ports.
+
 Video
 -----
 
